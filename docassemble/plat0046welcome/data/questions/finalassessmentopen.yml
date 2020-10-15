@@ -1,0 +1,19 @@
+
+# SYC Service Agreement Welcome Screen
+mandatory: True
+question: SYC Service Agreement Application
+subquestion: |
+  Welcome to the SYC Service Agreement Application. This application will create a service agreement in response to your answers to the following questions, and will provide a PDF file for both personal and clerical use.
+  
+  Click continue to proceed with using this app, or click exit to return to the SYC homepage.
+
+  ***Disclaimer:***  
+  **The form generated using this application is for use with SYC only. This application acts under the assumption that the user is, or is supervised by, an SYC representative.**
+  
+  By pressing 'continue', you acknowledge and accept these terms.
+  
+buttons:
+  - "Continue": continue
+  - "Exit": exit
+    url: http://www.syc.net.au
+---
